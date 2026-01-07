@@ -1,0 +1,6 @@
+C:\Users\jjjja\Desktop\c#\AlmacenVentas\CRUD.entity\bin\Debug\CRUD.entity.dll
+C:\Users\jjjja\Desktop\c#\AlmacenVentas\CRUD.entity\bin\Debug\CRUD.entity.pdb
+C:\Users\jjjja\Desktop\c#\AlmacenVentas\CRUD.entity\obj\Debug\CRUD.entity.csproj.AssemblyReference.cache
+C:\Users\jjjja\Desktop\c#\AlmacenVentas\CRUD.entity\obj\Debug\CRUD.entity.csproj.CoreCompileInputs.cache
+C:\Users\jjjja\Desktop\c#\AlmacenVentas\CRUD.entity\obj\Debug\CRUD.entity.dll
+C:\Users\jjjja\Desktop\c#\AlmacenVentas\CRUD.entity\obj\Debug\CRUD.entity.pdb

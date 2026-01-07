@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C01D97-16DD-4D8D-B7B3-E0C6B79C134A}|AlmacenVentas\\AlmacenVentas.csproj|c:\\users\\jjjja\\desktop\\c#\\almacenventas\\almacenventas\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A5C01D97-16DD-4D8D-B7B3-E0C6B79C134A}|AlmacenVentas\\AlmacenVentas.csproj|solutionrelative:almacenventas\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C01D97-16DD-4D8D-B7B3-E0C6B79C134A}|AlmacenVentas\\AlmacenVentas.csproj|c:\\users\\jjjja\\desktop\\c#\\almacenventas\\almacenventas\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C01D97-16DD-4D8D-B7B3-E0C6B79C134A}|AlmacenVentas\\AlmacenVentas.csproj|solutionrelative:almacenventas\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C01D97-16DD-4D8D-B7B3-E0C6B79C134A}|AlmacenVentas\\AlmacenVentas.csproj|c:\\users\\jjjja\\desktop\\c#\\almacenventas\\almacenventas\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A5C01D97-16DD-4D8D-B7B3-E0C6B79C134A}|AlmacenVentas\\AlmacenVentas.csproj|solutionrelative:almacenventas\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C01D97-16DD-4D8D-B7B3-E0C6B79C134A}|AlmacenVentas\\AlmacenVentas.csproj|c:\\users\\jjjja\\desktop\\c#\\almacenventas\\almacenventas\\about.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C01D97-16DD-4D8D-B7B3-E0C6B79C134A}|AlmacenVentas\\AlmacenVentas.csproj|solutionrelative:almacenventas\\about.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C01D97-16DD-4D8D-B7B3-E0C6B79C134A}|AlmacenVentas\\AlmacenVentas.csproj|c:\\users\\jjjja\\desktop\\c#\\almacenventas\\almacenventas\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C01D97-16DD-4D8D-B7B3-E0C6B79C134A}|AlmacenVentas\\AlmacenVentas.csproj|solutionrelative:almacenventas\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EE1321-7963-4848-AE56-330621505D4C}|CRUD.DataLayer\\CRUD.DataLayer.csproj|c:\\users\\jjjja\\desktop\\c#\\almacenventas\\crud.datalayer\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EE1321-7963-4848-AE56-330621505D4C}|CRUD.DataLayer\\CRUD.DataLayer.csproj|solutionrelative:crud.datalayer\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6150738-7B92-450F-B155-CFD614979F9C}|CRUD.BusinessLayer\\CRUD.BusinessLayer.csproj|c:\\users\\jjjja\\desktop\\c#\\almacenventas\\crud.businesslayer\\loginbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6150738-7B92-450F-B155-CFD614979F9C}|CRUD.BusinessLayer\\CRUD.BusinessLayer.csproj|solutionrelative:crud.businesslayer\\loginbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C01D97-16DD-4D8D-B7B3-E0C6B79C134A}|AlmacenVentas\\AlmacenVentas.csproj|c:\\users\\jjjja\\desktop\\c#\\almacenventas\\almacenventas\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C01D97-16DD-4D8D-B7B3-E0C6B79C134A}|AlmacenVentas\\AlmacenVentas.csproj|solutionrelative:almacenventas\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9748A5-A221-4732-8DE5-945B0016B02B}|CRUD.entity\\CRUD.entity.csproj|c:\\users\\jjjja\\desktop\\c#\\almacenventas\\crud.entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9748A5-A221-4732-8DE5-945B0016B02B}|CRUD.entity\\CRUD.entity.csproj|solutionrelative:crud.entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C01D97-16DD-4D8D-B7B3-E0C6B79C134A}|AlmacenVentas\\AlmacenVentas.csproj|c:\\users\\jjjja\\desktop\\c#\\almacenventas\\almacenventas\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A5C01D97-16DD-4D8D-B7B3-E0C6B79C134A}|AlmacenVentas\\AlmacenVentas.csproj|solutionrelative:almacenventas\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\AlmacenVentas\\Site.Master",
+              "RelativeDocumentMoniker": "AlmacenVentas\\Site.Master",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\AlmacenVentas\\Site.Master",
+              "RelativeToolTip": "AlmacenVentas\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T16:33:51.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\AlmacenVentas\\Global.asax.cs",
+              "RelativeDocumentMoniker": "AlmacenVentas\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\AlmacenVentas\\Global.asax.cs",
+              "RelativeToolTip": "AlmacenVentas\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:33:45.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\AlmacenVentas\\About.aspx.designer.cs",
+              "RelativeDocumentMoniker": "AlmacenVentas\\About.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\AlmacenVentas\\About.aspx.designer.cs",
+              "RelativeToolTip": "AlmacenVentas\\About.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:10:23.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\AlmacenVentas\\About.aspx.cs",
+              "RelativeDocumentMoniker": "AlmacenVentas\\About.aspx.cs",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\AlmacenVentas\\About.aspx.cs",
+              "RelativeToolTip": "AlmacenVentas\\About.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:10:21.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\AlmacenVentas\\About.aspx",
+              "RelativeDocumentMoniker": "AlmacenVentas\\About.aspx",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\AlmacenVentas\\About.aspx",
+              "RelativeToolTip": "AlmacenVentas\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T16:10:18.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\CRUD.entity\\Usuario.cs",
+              "RelativeDocumentMoniker": "CRUD.entity\\Usuario.cs",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\CRUD.entity\\Usuario.cs",
+              "RelativeToolTip": "CRUD.entity\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:18:05.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDL.cs",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\CRUD.DataLayer\\LoginDL.cs",
+              "RelativeDocumentMoniker": "CRUD.DataLayer\\LoginDL.cs",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\CRUD.DataLayer\\LoginDL.cs",
+              "RelativeToolTip": "CRUD.DataLayer\\LoginDL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:34:30.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginBL.cs",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\CRUD.BusinessLayer\\LoginBL.cs",
+              "RelativeDocumentMoniker": "CRUD.BusinessLayer\\LoginBL.cs",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\CRUD.BusinessLayer\\LoginBL.cs",
+              "RelativeToolTip": "CRUD.BusinessLayer\\LoginBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:31:54.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\AlmacenVentas\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "AlmacenVentas\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\AlmacenVentas\\Login.aspx.cs",
+              "RelativeToolTip": "AlmacenVentas\\Login.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:25:48.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\AlmacenVentas\\Login.aspx",
+              "RelativeDocumentMoniker": "AlmacenVentas\\Login.aspx",
+              "ToolTip": "C:\\Users\\jjjja\\Desktop\\c#\\AlmacenVentas\\AlmacenVentas\\Login.aspx",
+              "RelativeToolTip": "AlmacenVentas\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T14:24:55.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
